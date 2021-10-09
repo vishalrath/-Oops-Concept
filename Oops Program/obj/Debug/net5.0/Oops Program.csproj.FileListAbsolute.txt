@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.exe
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.deps.json
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.runtimeconfig.json
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.dll
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\ref\Oops Program.dll
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\bin\Debug\net5.0\Oops Program.pdb
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.dll
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\ref\Oops Program.dll
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.pdb
+C:\Users\VISHAL\source\repos\Oops Program Concept\Oops Program\obj\Debug\net5.0\Oops Program.genruntimeconfig.cache
