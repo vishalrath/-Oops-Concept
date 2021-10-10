@@ -83,30 +83,30 @@ namespace Oops_Program.ClassObject
 
             //   Hierarchical Inheritance
 
-            /*Toyato Details = new Toyato();      // creating object by void method in toyata class   
-                                                 // this  toyoto class is in herit in Car class
-                 {
-                Details.model = "Maruti1998";          //bject insert value in data type veriable in Car class
-                Details.color = "white";
-                Details.numb = 122112;             //bject insert value in data type veriable in Car class
-                                               
-                Details.CarDetails();              //  object call by CarDetails method in Car class
-                //MyCar.Printmileage();           // mycar object call by Printmileage method in Merrari class
-                    
+            /* Toyato Details = new Toyato();      // creating object by void method in toyata class   
+                                                  // this  toyoto class is in herit in Car class
+                  {
+                 Details.model = "Maruti1998";          //bject insert value in data type veriable in Car class
+                 Details.color = "white";
+                 Details.numb = 122112;             //bject insert value in data type veriable in Car class
 
-                Details.Drive = "Smooth";          // object insert data in toyoto class in data type
-                Details.Star = 5;
-                Details.PassingYear = 2021;
-                Details.Driving();                  // obj calling by method in toyato class
-             }
-                Ferrari Detail = new Ferrari();     // // creating object by void method in Ferari class class 
-                                                    //// this  ferrari class is in herit in Car class
-              {
-                Detail.speed = 100;               // object insert value in data type veriable in Ferrari class
-                 Detail.price = 200000;
-                Detail.PrintSpeedPrice();              //obj calling by method in Ferrari class
-                  Console.ReadLine();
-            }*/
+                 Details.CarDetails();              //  object call by CarDetails method in Car class
+                 //MyCar.Printmileage();           // mycar object call by Printmileage method in Merrari class
+
+
+                 Details.Drive = "Smooth";          // object insert data in toyoto class in data type
+                 Details.Star = 5;
+                 Details.PassingYear = 2021;
+                 Details.Driving();                  // obj calling by method in toyato class
+              }
+                 Ferrari Detail = new Ferrari();     // // creating object by void method in Ferari class class 
+                                                     //// this  ferrari class is in herit in Car class
+               {
+                 Detail.speed = 100;               // object insert value in data type veriable in Ferrari class
+                  Detail.price = 200000;
+                 Detail.PrintSpeedPrice();              //obj calling by method in Ferrari class
+                   Console.ReadLine();
+             }*/
 
             // Encapsulation
 
@@ -141,16 +141,29 @@ namespace Oops_Program.ClassObject
 
             //Polymorphism:
             //Two type of pollymorphism 1)compile time pollymorphism 2)Run time pollymorphism
-            //
             //compile time pollymorphism achive using Method Overloding
             //Run time pollymorphism achive using  Method Overriding
 
-            Overloding obj = new Overloding();
-               obj.Sum(10,20);
 
+            //overloding //
 
-            /*Overriding Tommy = new Overriding();
+            /*Overloding obj = new Overloding();
+               obj.Sum(10,20);*/
+
+            //overriding//
+
+            /*Dog Tommy = new Dog();
             Tommy.Eat();*/
+
+            //INTERFACE ://
+
+            Pqr pqr = new Pqr();
+             pqr.sum(10, 20);
+
+             pqr.mul(5, 10);
+
+           /* Dog1  MyDog1 = new Dog1();  // Create a Pig object
+            MyDog1.animalSound();*/
             Console.ReadLine();
 
 

@@ -8,7 +8,7 @@ namespace Oops_Program.ClassObject
 {
     class Overriding
     {
-        public void Eat()
+        public virtual void Eat()
         {
             Console.WriteLine("Animal is Eating");
         }
@@ -16,7 +16,7 @@ namespace Oops_Program.ClassObject
     }
     class Dog: Overriding
     {
-        public void Eat()
+        public override void Eat()
         {
             Console.WriteLine("Dog is Eating");
         }
