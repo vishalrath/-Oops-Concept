@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.exe
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.deps.json
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.runtimeconfig.json
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.dll
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\ref\BasicProgram.dll
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\bin\Debug\net5.0\BasicProgram.pdb
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.dll
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\ref\BasicProgram.dll
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.pdb
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.genruntimeconfig.cache
+C:\Users\VISHAL\source\repos\BasicProgram\BasicProgram\obj\Debug\net5.0\BasicProgram.csproj.AssemblyReference.cache
